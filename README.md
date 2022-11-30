@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Hutchinson
 - 👀 I’m interested Learning as much as possible, and working with others to get more hands on experience.
-- 🌱 I’m currently learning HTML, CSS, and Javascript. I currently know Python and Java.
+- 🌱 My current skillset consists of Python, Java, HTML, CSS, Javascript, Ruby, and SQL. I am currently learning Firebase and React Native for a personal project!
 - 💞️ I’m looking to collaborate on anything and everything! I'm hoping to get more experience, so reach out if you want to collaborate!
 - 📫 You can contact me at jacob.j.hutchinson.98@gmail.com
 
